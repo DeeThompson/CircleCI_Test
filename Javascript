@@ -1,0 +1,16 @@
+
+<html>
+<body>
+
+<h2>Circle CI Test</h2>
+
+<button onclick="myFunction()">Please Click</button>
+
+<script>
+function myFunction() {
+  alert("This is a Circle CI test, this is only a test ...Beep!");
+}
+</script>
+
+</body>
+</html>
